@@ -110,7 +110,7 @@ You can create and run JavaScript applications
 Open in Chrome (Opera extension)
 
 Długo używałem rozszerzenia zrobionego przez kogoś.
-W pewnym momencie zaszła potrzeba uruchomienia Chrome, ale z zadanym parametrem,żeby wciąż działało rozszerzenie uBlock Orgin.
+W pewnym momencie zaszła potrzeba uruchomienia Chrome, ale z zadanym parametrem, żeby wciąż działało rozszerzenie uBlock Orgin.
 Stare rozszerzenie mimo wpisania poprawnych danych nie chciało działać, dlatego napisałem własną wersję.
 ***
 To rozszerzenie umożliwia otwarcie bieżącej karty w nowej instancji przeglądarki Chrome z następującymi flagami:
