@@ -12,6 +12,7 @@ The old extension wouldn't work even though I entered the correct data, so I wro
 # Open in Chrome (Opera extension)
 
 This extension allows you to open the current tab in a new Chrome instance with the following flags:
+
 `--disable-features=ExtensionManifestV2Unsupported,ExtensionManifestV2Disabled`
 (in file host.js)
 
